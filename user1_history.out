@@ -1,0 +1,12 @@
+    1  passwd
+    2  cat /etc/shadow
+    3  ~/mycat /etc/shadow
+    4  touch ~/test.txt
+    5  chown root ~/test.txt
+    6  ~/mychown root ~/test.txt
+    7  ls -l ~/test.txt
+    8  sudo -l
+    9  sudo date -s "2020-10-23 12:00:00"
+   10  date
+   11  echo 374781
+   12  history > ~/user1_history.out
